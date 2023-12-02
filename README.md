@@ -54,7 +54,7 @@ The Dine Delish App is developed using the following technologies:
      • Project Lead/ Frontend & Backend Developer
 👨‍🎓**Thevindu Ransara** ([trsrathnayaka](https://github.com/trsrathnayaka))
   
-     • UI/UX Designer/ Frontend Developer
+     • UI/UX Designer/ Frontend & Backend Developer
 👨‍🎓**Wasana Muthumali** ([muthumaliperera](https://github.com/muthumaliperera))
   
      • Frontend Developer
